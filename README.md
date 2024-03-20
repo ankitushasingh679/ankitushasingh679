@@ -14,7 +14,7 @@
 - 📫 How to reach me **ankitsingh63510@gmail.com**
 ### Connect with me:
 
-[![Linkedin](https://img.shields.io/badge/-Ajay%20Tekam-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-kumar-368543283/)](https://www.linkedin.com/in/ankit-kumar-368543283/)
+[![Linkedin](https://img.shields.io/badge/-AnkitKumar-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-kumar-368543283/)](https://www.linkedin.com/in/ankit-kumar-368543283/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AnkitSingh58779?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/AnkitSingh58779)
 [![Github](https://img.shields.io/github/followers/Ankitkumar?label=Follow&style=social)](https://github.com/ankitushasingh679)
 
