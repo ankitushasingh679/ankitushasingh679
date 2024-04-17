@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **aws,asure..**
 
-- 👯 I’m looking to collaborate on **python project**
+- 👯 I’m looking to collaborate on **python projects**
 
 - 💬 Ask me about **python,django,sql ...**
 
